@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi, I’m @sefa1klc<br>👨🏾‍💻 I'm studying computer engineering at Istanbul University - Cerrahpaşa<br>👀 I’m interested in Game Development<br>🌱 I’m currently learning Unity<br> 📨 How to reach me: Email - sefakkilic@gmail.com  <img src="[gorsel-link](https://github.com/sefa1klc/sefa1klc/blob/main/coding.gif)" width="auto">
+👋 Hi, I’m @sefa1klc<br>👨🏾‍💻 I'm studying computer engineering at Istanbul University - Cerrahpaşa<br>👀 I’m interested in Game Development<br>🌱 I’m currently learning Unity<br> 📨 How to reach me: Email - sefakkilic@gmail.com
+
+<img src="[gorsel-link](https://github.com/sefa1klc/sefa1klc/blob/main/coding.gif)" width="auto">
 
 
 ## 🌐 Socials:
