@@ -1,5 +1,5 @@
 # 💫 Hi There:
-👋 Hi, I’m Sefa KILIÇ<br>👨🏾‍💻 I'm studying computer engineering at Istanbul University - Cerrahpaşa<br>👀 I’m interested in Game Development<br>🌱 I’m currently learning Unity<br> 📨 How to reach me: Email - sefakkilic@gmail.com
+👋 Hi, I’m Sefa KILIÇ<br>👨🏾‍💻 I'm studying computer engineering at Istanbul University - Cerrahpaşa<br>🌱 I’m currently learning ASP.Net and Angular<br> 📨 How to reach me: Email - sefakkilic@gmail.com
 
 ![](https://github.com/sefa1klc/sefa1klc/blob/main/code.gif)
 
